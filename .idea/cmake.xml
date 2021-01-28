@@ -2,14 +2,6 @@
 <project version="4">
   <component name="CMakeSharedSettings">
     <configurations>
-      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Default" GENERATION_OPTIONS="-DCMAKE_PREFIX_PATH=/usr/local/Cellar/qt/5.15.2/lib/cmake/" GENERATION_PASS_SYSTEM_ENVIRONMENT="false" GENERATION_DIR="cmake-build-smth" BUILD_OPTIONS="-j 11" ENABLED="true">
-        <ADDITIONAL_GENERATION_ENVIRONMENT>
-          <envs>
-            <env name="TestVar1" value="1" />
-            <env name="TestVar3" value="3" />
-          </envs>
-        </ADDITIONAL_GENERATION_ENVIRONMENT>
-      </configuration>
       <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" ENABLED="false" />
       <configuration PROFILE_NAME="RelWithDebInfo" CONFIG_NAME="RelWithDebInfo" ENABLED="true" />
       <configuration PROFILE_NAME="MinSizeRel" CONFIG_NAME="MinSizeRel" ENABLED="false" />
