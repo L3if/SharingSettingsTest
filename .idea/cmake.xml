@@ -2,9 +2,9 @@
 <project version="4">
   <component name="CMakeSharedSettings">
     <configurations>
-      <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" ENABLED="false" />
-      <configuration PROFILE_NAME="RelWithDebInfo" CONFIG_NAME="RelWithDebInfo" ENABLED="false" />
-      <configuration PROFILE_NAME="MinSizeRel" CONFIG_NAME="MinSizeRel" ENABLED="false" />
+      <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" ENABLED="true" />
+      <configuration PROFILE_NAME="RelWithDebInfo" CONFIG_NAME="RelWithDebInfo" ENABLED="true" />
+      <configuration PROFILE_NAME="MinSizeRel" CONFIG_NAME="MinSizeRel" ENABLED="true" />
     </configurations>
   </component>
 </project>
